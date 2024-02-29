@@ -1,0 +1,9 @@
+.banner{
+    height: 13rem;
+    border: 3px solid black;
+    font-weight: bold;
+    font-size: 26px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}

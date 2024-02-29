@@ -1,0 +1,8 @@
+.branchesAddress {
+    /* bottom: 0; */
+    /* position: absolute; */
+    margin-top: 21rem;
+}
+#root > div.branchesAddress{
+    display: none;
+}
